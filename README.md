@@ -1,9 +1,5 @@
 ### <h1 align='center'> Hi!👋</h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/cfTmxE3jLIqQRCZZ6B/giphy.gif" width="50"/>
-</div>
-
 ---
 
 ### :fire: Stats :
